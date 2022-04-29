@@ -1,5 +1,12 @@
-### Hi there 👋
-
+           <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+           <script>
+               var typed= new Typed(".auto-input", {
+                   strings:["Professional Photographer","Editor","Freelancer"],
+                   typeSpeed:80,
+                   backSpeed:80,
+                   loop:true
+               })
+           </script>
 <!--
 **abdelrhman2049/abdelrhman2049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
