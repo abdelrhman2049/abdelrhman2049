@@ -1,35 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@abdelrhman2049 
-kautukkundan
-/
-Awesome-Profile-README-templates
-Public
-Code
-Issues
-13
-Pull requests
-45
-Actions
-Projects
-Wiki
-Security
-Insights
-Awesome-Profile-README-templates/multimedia/Bgstatic.md
-@bilgehangecici
-bilgehangecici Added Bgstatic.md file under multimedia (#315)
-…
-Latest commit 4b1d026 on Oct 1, 2020
- History
- 1 contributor
-89 lines (60 sloc)  4.35 KB
-   
-# Hi there, I'm Abdelrhman Mohamed - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Abdelrhman Mohamed
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
