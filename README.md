@@ -1,7 +1,6 @@
 # Hi there, I'm Abdelrhman Mohamed - <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<div class="tenor-gif-embed" data-postid="13909126" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126">Tux Linux Penguin Sticker</a>from <a href="https://tenor.com/search/tux+linux-stickers">Tux Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 👨‍💻 I’m currently working on web development technologies like Html , Css , JavaScript ,etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
